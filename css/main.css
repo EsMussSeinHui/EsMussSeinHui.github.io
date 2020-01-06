@@ -1165,7 +1165,6 @@ pre .javascript .function {
   margin: 0 auto;
   max-width: 96px;
   padding: 2px;
-  border-radius: 50%;
 }
 .site-author-image {
   transition: transform 1s ease-out;
@@ -1202,7 +1201,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a4af60;
+  background: #e8f4ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
