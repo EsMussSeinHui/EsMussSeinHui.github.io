@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo图片测试</title>
+    <url>/posts/b16545e0/</url>
+    <content><![CDATA[<h1 id="hexo-图片测试"><a href="#hexo-图片测试" class="headerlink" title="hexo 图片测试"></a>hexo 图片测试</h1><p>&emsp;&emsp;因为个人的习惯，自己写文档的时候，喜欢把当前文件夹下的所有文档种包含的图片，都存储在当前文件夹下的.images文件夹中。<br>&emsp;&emsp;但是hexo并没有提供这种方式。如下是hexo官方写的两种方式，有兴趣的可以直接查看官网 <a href="https://hexo.io/zh-cn/docs/asset-folders" target="_blank" rel="noopener">hexo资源文件夹</a>.</p>
+<a id="more"></a>
+
+<h2 id="1-放置source-images"><a href="#1-放置source-images" class="headerlink" title="1.放置source/images"></a>1.放置source/images</h2><p>&emsp;&emsp;这也是笔者采用的方式。将资源文件放在/source/images，在利用markdown的相对路径去获取。</p>
+<h2 id="2-插件方法"><a href="#2-插件方法" class="headerlink" title="2.插件方法"></a>2.插件方法</h2><p><a href="https://blog.csdn.net/Fitz1318/article/details/86548129" target="_blank" rel="noopener">Hexo文章中插入图片的方法</a></p>
+<p>但是我对这种方法有一个疑惑，即在自己写的时候是不是因为路径的问题看不到，没去测试，而且笔者更喜欢上面那种管理方式。</p>
+<p><img src="/images/avatar.png" alt="img"></p>
+]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>tryHexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
