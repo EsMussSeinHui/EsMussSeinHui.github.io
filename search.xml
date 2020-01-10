@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>谁动了我的奶酪</title>
+    <url>/posts/40998eb9/</url>
+    <content><![CDATA[<h1 id="读书日记-谁动了我的奶酪"><a href="#读书日记-谁动了我的奶酪" class="headerlink" title="读书日记 谁动了我的奶酪"></a>读书日记 谁动了我的奶酪</h1><h2 id="警示"><a href="#警示" class="headerlink" title="警示"></a>警示</h2><ol>
+<li>注意变化</li>
+<li>注意变化</li>
+<li>注意变化</li>
+<li>拥抱变化</li>
+<li>拥抱变化</li>
+<li>拥抱变化<a id="more"></a></li>
+<li>措施</li>
+<li>措施</li>
+<li>措施<br>内心的不甘又开始了…<br>do it.Fuck the fucking world<h2 id="措施"><a href="#措施" class="headerlink" title="措施"></a>措施</h2></li>
+<li>写奶酪日记<blockquote>
+<p>日记格式<br>问题:<br>列举解决方案(像巫师3一样)</p>
+</blockquote>
+</li>
+<li>做出最快最积极的措施，去拥抱变化</li>
+<li>记录奶酪变质变换。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>读书日记</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Hexo图片测试</title>
     <url>/posts/b16545e0/</url>
     <content><![CDATA[<h1 id="hexo-图片测试"><a href="#hexo-图片测试" class="headerlink" title="hexo 图片测试"></a>hexo 图片测试</h1><p>&emsp;&emsp;因为个人的习惯，自己写文档的时候，喜欢把当前文件夹下的所有文档种包含的图片，都存储在当前文件夹下的.images文件夹中。<br>&emsp;&emsp;但是hexo并没有提供这种方式。如下是hexo官方写的两种方式，有兴趣的可以直接查看官网 <a href="https://hexo.io/zh-cn/docs/asset-folders" target="_blank" rel="noopener">hexo资源文件夹</a>.</p>
